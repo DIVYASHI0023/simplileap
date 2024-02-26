@@ -1,0 +1,69 @@
+
+
+.dashboard-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .search-bar {
+    margin-top: 10px;
+  }
+  
+  input {
+    padding: 8px;
+    width: 100%;
+  }
+  
+  .greeting {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .admin-section {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .task-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #3498db;
+    color: #fff;
+  }
+  
+  .completed {
+    color: #2ecc71;
+    font-weight: bold;
+  }
+  
+  button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  

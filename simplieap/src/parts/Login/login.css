@@ -1,0 +1,98 @@
+
+
+.login-container {
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px;
+  }
+  
+  .login-container h2 {
+    text-align: center;
+  }
+  
+  .login-container h3 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .login-container .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .login-container .form-group label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .login-container input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  .forgot-password{
+    padding: 6px;
+  }
+  
+  .login-container .forgot-password {
+    margin-top: -10px;
+    text-align: right;
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  .login-container button {
+    background-color:blue;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .login-container .google-login {
+    background-color: #fff;
+    color:black;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .login-container p {
+    text-align: center;
+    margin-top: 15px;
+  }
+  
+  .login-container a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .welcome-container {
+    flex: 1;
+    background-color: antiquewhite;
+    color:black;
+    padding: 20px;
+    margin: 4px;
+    margin-left: 500px;
+    margin-bottom: 100px;
+    border-radius: 8px;
+    width: 400px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .welcome-container h2 {
+    text-align: center;
+  }
+
+  .text{
+    color: blue;
+  }
+  
